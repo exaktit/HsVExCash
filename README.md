@@ -8,7 +8,7 @@ Swift Package Manager
 
 Swift Package Manager (SwiftPM) is a tool for managing the distribution of Swift code. It simplifies the process of managing Swift package dependencies.
 
-2222222222222
+GoHomeSwdeStatest-phl-apiswdfyinformationswdccGoHomeSwdeSen
 
 To integrate SVProgressHUD into your project using SwiftPM:
 
